@@ -1,3 +1,6 @@
+###The DateTime module comes preinstalled in the Python programming language so you can easily import it in your program. 
+###The playsound library can be easily installed by using a pip command; pip install playsound. I hope you will be able to install it in your systems, now let’s see how to write a program to create an alarm with Python.
+
 from datetime import datetime   
 from playsound import playsound
 alarm_time = input("Enter the time of alarm to be set:HH:MM:SS\n")
